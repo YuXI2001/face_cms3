@@ -6,5 +6,4 @@
 ## 系统运行
 前台：`127:0.0.1`
 后台：`127.0.0.1/admin`
-# face /c/Users/Lenovo
 # face
